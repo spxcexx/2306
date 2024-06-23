@@ -1,3 +1,8 @@
-## It's Something with something. How should you write these roms of yours in general???
-graph TD
-  A[module.py] -->|import *| B(main.py)
+
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
