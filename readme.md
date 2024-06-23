@@ -1,5 +1,5 @@
 
 ```mermaid
-graph LR
+graph TD
 A[MODULE.PY] -- IMPORT * --> B((MAIN.PY))
 ```
